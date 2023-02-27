@@ -25,6 +25,25 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi.
 
+content:
+  - title: Software
+    layout: list
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: smallexpimv
+        link: https://github.com/newbisi/smallexpimv
+        link_text: Github page
+        description: | # this will include new lines to allow paragraphs
+          Python package for subroutines used by unitary Krylov propagators. Based on Fortran code using blas and lapack libraries. Also available in the pypi package manager. 
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: adaptive Magnus-Krylov propagators
+        description: | # this will include new lines to allow paragraphs
+          Fortran and python code, to be published.
+
 # Footer
 footer_show_references: true
 references_title: using sproogen/modern-resume-theme
