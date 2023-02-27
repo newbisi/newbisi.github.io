@@ -25,6 +25,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi.
 
+  <a href="https://github.com/newbisi/newbisi.github.io/raw/main/pdf/CV_TobiasJawecki.pdf"> <i class="fa fa-file-pdf-o"></i>  Download CV</a>
+
 content:
   - title: Software
     layout: list
