@@ -1,3 +1,40 @@
-theme: jekyll-theme-tactile
-title: Tobias Jawecki's homepage
-description: My research and other projects.
+# Site
+repository: newbisi/newbisi.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Tobias Jawecki
+title: Mathematics Researcher
+email: tobias.jawecki@gmail.com
+website: https://newbisi.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username:  newbisi
+orcid_username: 0000-0002-5720-3613
+googlescholar_username: u1dLQx0AAAAJ
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi.
+
+# Footer
+footer_show_references: true
+references_title: using sproogen/modern-resume-theme
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
