@@ -61,7 +61,7 @@ content:
 
       - layout: top
         border: 0
-        title: Publications
+        title: Papers in Scientific Journals
         description: |
           - W. Auzinger, T. Jawecki, O. Koch, P. Pukach, R. Stolyarchuk, and E.B. Weinmüller.
             Efficient Magnus-type integrators for solar energy conversion in Hubbard models.
