@@ -46,6 +46,61 @@ content:
         description: | # this will include new lines to allow paragraphs
           Fortran and python code, to be published.
 
+  - title: Publication List
+    layout: list
+    content:
+
+      - layout: top
+        border: 0
+        title: Preprints
+        description: |
+          - T. Jawecki and P. Singh. Unitarity of some barycentric rational approximants, 2022.
+            preprint at <a href="https://arxiv.org/abs/2205.10606">https://arxiv.org/abs/2205.10606</a>
+          - T. Jawecki. A review of the separation theorem of Chebyshev-Markov-Stieltjes for polynomial and some rational Krylov subspaces, 2022.
+            preprint at <a href="https://arxiv.org/abs/2205.01535">https://arxiv.org/abs/2205.01535</a>
+
+      - layout: top
+        border: 0
+        title: Publications
+        description: |
+          - W. Auzinger, T. Jawecki, O. Koch, P. Pukach, R. Stolyarchuk, and E.B. Weinmüller.
+            Efficient Magnus-type integrators for solar energy conversion in Hubbard models.
+            J. Comput. Math. Data Sci., 2:100018, 2022.
+            doi <a href="https://doi.org/10.1016/j.jcmds.2021.100018">10.1016/j.jcmds.2021.100018</a>
+          - T. Jawecki.
+            A study of defect-based error estimates for the Krylov approximation of phi-functions.
+            Numer. Algorithms, 90(1):323--361, 2022.
+            doi <a href="https://doi.org/10.1007/s11075-021-01190-x">10.1007/s11075-021-01190-x</a>
+          - C. Schattauer, L. Linhart, T. Fabian, T. Jawecki, W. Auzinger, and F. Libisch.
+            Graphene quantum dot states near defects.
+            Phys. Rev. B, 102:155430, 2020.
+            doi <a href="https://doi.org/10.1103/PhysRevB.102.155430">10.1103/PhysRevB.102.155430</a>
+          - T. Jawecki, W. Auzinger, and O. Koch.
+            Computable upper error bounds for {K}rylov approximations to matrix exponentials and associated phi-functions. BIT, 60(1):157--197, 2020.
+            doi <a href="https://doi.org/10.1007/s10543-019-00771-6">10.1007/s10543-019-00771-6</a>
+
+      - layout: top
+        border: 0
+        title: Conference Papers
+        description: |
+          - W. Auzinger, T. Jawecki, O. Koch, P. Pukach, R. Stolyarchuk, and E.B. Weinmüller.
+            Some aspects on [numerical] stability of evolution equations of stiff type; use of computer algebra.
+            In 2021 IEEE XVII th International Conference on the Perspective Technologies and Methods in MEMS Design (MEMSTECH), pages 180--184, 2021.
+            doi <a href="https://doi.org/10.1109/memstech53091.2021.9468055">10.1109/memstech53091.2021.9468055</a>
+
+      - layout: top
+        border: 0
+        title: Theses
+        description: |
+          - T. Jawecki.
+            Krylov techniques and approximations to the action of matrix exponentials.
+            Ph.D thesis, TU Wien, Austria, 2022.
+            doi <a href="https://doi.org/10.34726/hss.2022.45083"> 10.34726/hss.2022.45083 </a>
+          - T. Jawecki. Bifurcation analysis via numerical continuation for nonlinear fourth-order partial differential equations. Diploma thesis, TU Wien, 2017.
+            available online at <a href="http://katalog.ub.tuwien.ac.at/AC13642458"> http://katalog.ub.tuwien.ac.at/AC13642458 </a>
+
+
+
 # Footer
 footer_show_references: true
 references_title: using sproogen/modern-resume-theme
