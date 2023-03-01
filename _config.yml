@@ -9,7 +9,7 @@ version: 2
 name: Tobias Jawecki
 title: Mathematics Researcher
 email: tobias.jawecki@gmail.com
-website: https://newbisi.github.io/
+website: https://newbisi.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -23,11 +23,32 @@ googlescholar_username: u1dLQx0AAAAJ
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi.
+  
+  I received my PhD in numerical mathematics at <mark>TU Wien</mark>.
+  The main topics of my PhD thesis are <mark>Krylov techniques</mark> and approximations to the action of <mark>matrix exponentials</mark>.
+  While my research interests mostly revolve around numerical analysis and computational mathematics, I am also intersted in applications and development of numerical software.
+  As a PhD studend I enjoyed being part of the doctoral college <a href="http://dollywood.itp.tuwien.ac.at/~florian/tu_d_page/faculty" >Unravelling Advanced 2D Materials (TU-D)</a>,
+  which led to interesting collaborations on time integration of quantum systems and related eigenvalue problems. 
+  
+  
+  Some of my research collaborators are
+  <a href="https://www.asc.tuwien.ac.at/~winfried/" >Winfried Auzinger</a> (doctoral advisor),
+  <a href="http://dollywood.itp.tuwien.ac.at/~florian/" >Florian Libisch</a> (TU-D Speaker),
+  <a href="https://www.pranavsingh.co.uk">Pranav Singh</a>.
+
 
   <a href="https://github.com/newbisi/newbisi.github.io/raw/main/pdf/CV_TobiasJawecki.pdf"> <i class="fa fa-file-pdf-o"></i>  Download CV</a>
 
 content:
+  - title: Research interests
+    layout: text
+    content:
+      Practical error estimates for Krylov approximations to the action of matrix exponentials.
+      Adaptive Magnus-Krylov integrators. Geometric numerical integration. Time propagation of quantum systems.
+      Rational best approximation to the imaginary exponential.
+      Orthogonal polynomials, orthogonal rational functions, and related Gaussian quadrature formulae in the context of Krylov techniques.
+      Variants of the near-best approximation property of rational Krylov methods.
+
   - title: Software
     layout: list
     content:
@@ -38,7 +59,8 @@ content:
         link: https://github.com/newbisi/smallexpimv
         link_text: Github page
         description: | # this will include new lines to allow paragraphs
-          Python package for subroutines used by unitary Krylov propagators. Based on Fortran code using blas and lapack libraries. Also available in the pypi package manager. 
+          Python package providing some subroutines for unitary Krylov propagators.
+          This package is based on Fortran code using blas and lapack libraries. Also available in the pypi package manager, work in progress.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -97,7 +119,7 @@ content:
             Ph.D thesis, TU Wien, Austria, 2022.
             doi <a href="https://doi.org/10.34726/hss.2022.45083"> 10.34726/hss.2022.45083 </a>
           - T. Jawecki. Bifurcation analysis via numerical continuation for nonlinear fourth-order partial differential equations. Diploma thesis, TU Wien, 2017.
-            available online at <a href="http://katalog.ub.tuwien.ac.at/AC13642458"> http://katalog.ub.tuwien.ac.at/AC13642458 </a>
+            available online at <a href="https://katalog.ub.tuwien.ac.at/AC13642458">https://katalog.ub.tuwien.ac.at/AC13642458</a>
 
 
 
