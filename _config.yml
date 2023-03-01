@@ -26,10 +26,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   I received my PhD in numerical mathematics at <mark>TU Wien</mark>.
   The main topics of my PhD thesis are <mark>Krylov techniques</mark> and approximations to the action of <mark>matrix exponentials</mark>.
-  While my research interests mostly revolve around numerical analysis and computational mathematics, I am also intersted in applications and development of numerical software.
-  As a PhD studend I enjoyed being part of the doctoral college <a href="http://dollywood.itp.tuwien.ac.at/~florian/tu_d_page/faculty" >Unravelling Advanced 2D Materials (TU-D)</a>,
-  which led to interesting collaborations on time integration of quantum systems and related eigenvalue problems. 
-  
+  While my research interests mostly revolve around numerical analysis and computational mathematics, I also enjoy working on applications and development of numerical software.
+  As a PhD student I was part of the doctoral college <a href="http://dollywood.itp.tuwien.ac.at/~florian/tu_d_page/faculty" >Unravelling Advanced 2D Materials (TU-D)</a>,
+  which led to interdisciplinary collaborations focusing on time integration of quantum systems. 
   
   Some of my research collaborators are
   <a href="https://www.asc.tuwien.ac.at/~winfried/" >Winfried Auzinger</a> (doctoral advisor),
