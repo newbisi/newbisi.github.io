@@ -24,8 +24,8 @@ googlescholar_username: u1dLQx0AAAAJ
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  I received my PhD in numerical mathematics at <mark>TU Wien</mark>.
-  The main topics of my PhD thesis are <mark>Krylov techniques</mark> and approximations to the action of <mark>matrix exponentials</mark>.
+  I received my PhD in numerical mathematics at TU Wien.
+  The main topics of my PhD thesis are Krylov techniques and approximations to the action of matrix exponentials.
   While my research mainly revolves around numerical analysis and computational mathematics, I also enjoy working on applications and development of numerical software.
   As a PhD student I was part of the doctoral college <a href="http://dollywood.itp.tuwien.ac.at/~florian/tu_d_page/faculty" >Unravelling Advanced 2D Materials (TU-D)</a>,
   which led to interdisciplinary collaborations focusing on time integration of quantum systems. 
