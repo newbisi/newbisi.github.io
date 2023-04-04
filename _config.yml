@@ -58,8 +58,8 @@ content:
         link: https://github.com/newbisi/smallexpimv
         link_text: Github page
         description: | # this will include new lines to allow paragraphs
-          Python package providing some subroutines for unitary Krylov propagators.
-          This package is based on Fortran code using blas and lapack libraries. Also available in the pypi package manager, work in progress.
+          A Python package providing some subroutines for Krylov propagators.
+          This package is based on Fortran code using blas and lapack libraries. Also available in the pypi package manager <a href="https://pypi.org/project/smallexpimv">link</a>, work in progress.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -84,19 +84,19 @@ content:
         border: 0
         title: Papers in Scientific Journals
         description: |
-          - W. Auzinger, J. Dubois, K. Held, H. Hofstätter, T. Jawecki, A. Kauch, O. Koch, K. Kropielnicka, P. Singh, and C. Watzenböck.
+          1. W. Auzinger, J. Dubois, K. Held, H. Hofstätter, T. Jawecki, A. Kauch, O. Koch, K. Kropielnicka, P. Singh, and C. Watzenböck.
             Efficient Magnus-type integrators for solar energy conversion in Hubbard models.
             J. Comput. Math. Data Sci., 2:100018, 2022.
             doi <a href="https://doi.org/10.1016/j.jcmds.2021.100018">10.1016/j.jcmds.2021.100018</a>
-          - T. Jawecki.
+          2. T. Jawecki.
             A study of defect-based error estimates for the Krylov approximation of phi-functions.
             Numer. Algorithms, 90(1):323--361, 2022.
             doi <a href="https://doi.org/10.1007/s11075-021-01190-x">10.1007/s11075-021-01190-x</a>
-          - C. Schattauer, L. Linhart, T. Fabian, T. Jawecki, W. Auzinger, and F. Libisch.
+          3. C. Schattauer, L. Linhart, T. Fabian, T. Jawecki, W. Auzinger, and F. Libisch.
             Graphene quantum dot states near defects.
             Phys. Rev. B, 102:155430, 2020.
             doi <a href="https://doi.org/10.1103/PhysRevB.102.155430">10.1103/PhysRevB.102.155430</a>
-          - T. Jawecki, W. Auzinger, and O. Koch.
+          4. T. Jawecki, W. Auzinger, and O. Koch.
             Computable upper error bounds for Krylov approximations to matrix exponentials and associated phi-functions. BIT, 60(1):157--197, 2020.
             doi <a href="https://doi.org/10.1007/s10543-019-00771-6">10.1007/s10543-019-00771-6</a>
 
@@ -104,7 +104,7 @@ content:
         border: 0
         title: Conference Papers
         description: |
-          - W. Auzinger, T. Jawecki, O. Koch, P. Pukach, R. Stolyarchuk, and E.B. Weinmüller.
+          1. W. Auzinger, T. Jawecki, O. Koch, P. Pukach, R. Stolyarchuk, and E.B. Weinmüller.
             Some aspects on [numerical] stability of evolution equations of stiff type; use of computer algebra.
             In 2021 IEEE XVII th International Conference on the Perspective Technologies and Methods in MEMS Design (MEMSTECH), pages 180--184, 2021.
             doi <a href="https://doi.org/10.1109/memstech53091.2021.9468055">10.1109/memstech53091.2021.9468055</a>
