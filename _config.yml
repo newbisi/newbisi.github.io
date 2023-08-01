@@ -75,8 +75,6 @@ content:
         border: 0
         title: Preprints
         description: |
-          - T. Jawecki and P. Singh. Unitarity of some barycentric rational approximants, 2022.
-            preprint at <a href="https://arxiv.org/abs/2205.10606">https://arxiv.org/abs/2205.10606</a>
           - T. Jawecki. A review of the separation theorem of Chebyshev-Markov-Stieltjes for polynomial and some rational Krylov subspaces, 2022.
             preprint at <a href="https://arxiv.org/abs/2205.01535">https://arxiv.org/abs/2205.01535</a>
 
@@ -85,6 +83,11 @@ content:
         title: Papers in Scientific Journals
         description: |
           {: reversed="reversed"}
+          6. T. Jawecki and P. Singh.
+            Unitarity of some barycentric rational approximants. 
+            accepted in IMA J. Numer. Anal., 2023.
+            doi <a href="https://doi.org/10.1093/imanum/drad066">10.1093/imanum/drad066</a>
+            preprint at <a href="https://arxiv.org/abs/2205.10606">https://arxiv.org/abs/2205.10606</a>
           5. W. Auzinger, J. Dubois, K. Held, H. Hofstätter, T. Jawecki, A. Kauch, O. Koch, K. Kropielnicka, P. Singh, and C. Watzenböck.
             Efficient Magnus-type integrators for solar energy conversion in Hubbard models.
             J. Comput. Math. Data Sci., 2:100018, 2022.
