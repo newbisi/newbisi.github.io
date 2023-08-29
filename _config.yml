@@ -85,9 +85,9 @@ content:
           {: reversed="reversed"}
           6. T. Jawecki and P. Singh.
             Unitarity of some barycentric rational approximants. 
-            accepted in IMA J. Numer. Anal., 2023.
+            IMA J. Numer. Anal., 2023.
             doi <a href="https://doi.org/10.1093/imanum/drad066">10.1093/imanum/drad066</a>
-            preprint at <a href="https://arxiv.org/abs/2205.10606">https://arxiv.org/abs/2205.10606</a>
+            <a href="https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drad066/7246874?guestAccessKey=364aee1b-b478-4d19-b4d7-0b0ce35e34c0"> <i class="fa fa-file-pdf-o"></i> Get PDF</a>
           5. W. Auzinger, J. Dubois, K. Held, H. Hofstätter, T. Jawecki, A. Kauch, O. Koch, K. Kropielnicka, P. Singh, and C. Watzenböck.
             Efficient Magnus-type integrators for solar energy conversion in Hubbard models.
             J. Comput. Math. Data Sci., 2:100018, 2022.
