@@ -95,10 +95,12 @@ content:
             Efficient Magnus-type integrators for solar energy conversion in Hubbard models.
             J. Comput. Math. Data Sci., 2:100018, 2022.
             doi <a href="https://doi.org/10.1016/j.jcmds.2021.100018">10.1016/j.jcmds.2021.100018</a>
+            <a href="https://www.sciencedirect.com/science/article/pii/S2772415821000092/pdfft?pid=1-s2.0-S2772415821000092-main.pdf"> <i class="fa fa-file-pdf-o"></i> pdf</a>
           4. T. Jawecki.
             A study of defect-based error estimates for the Krylov approximation of phi-functions.
             Numer. Algorithms, 90(1):323--361, 2022.
             doi <a href="https://doi.org/10.1007/s11075-021-01190-x">10.1007/s11075-021-01190-x</a>
+            <a href="https://link.springer.com/content/pdf/10.1007/s11075-021-01190-x.pdf"> <i class="fa fa-file-pdf-o"></i> pdf</a>
           3. W. Auzinger, T. Jawecki, O. Koch, P. Pukach, R. Stolyarchuk, and E.B. Weinmüller.
             Some aspects on [numerical] stability of evolution equations of stiff type; use of computer algebra.
             In 2021 IEEE XVII th International Conference on the Perspective Technologies and Methods in MEMS Design (MEMSTECH), pages 180--184, 2021.
@@ -110,6 +112,7 @@ content:
           1. T. Jawecki, W. Auzinger, and O. Koch.
             Computable upper error bounds for Krylov approximations to matrix exponentials and associated phi-functions. BIT, 60(1):157--197, 2020.
             doi <a href="https://doi.org/10.1007/s10543-019-00771-6">10.1007/s10543-019-00771-6</a>
+            <a href="https://link.springer.com/content/pdf/10.1007/s10543-019-00771-6.pdf"> <i class="fa fa-file-pdf-o"></i> pdf</a>
 
       - layout: top
         border: 0
