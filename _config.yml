@@ -58,7 +58,7 @@ content:
         link: https://github.com/newbisi/rexpi
         link_text: Github page
         description: | # this will include new lines to allow paragraphs
-          A Python package providing algorithms to approximate the unitary exponential function with a focus on unitary best approximations. This package is still under development.
+          A Python package providing algorithms to approximate the unitary exponential function with a focus on unitary best approximations. Also available in the pypi package manager <a href="https://pypi.org/project/rexpi/">link</a>. This package is still under development.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
