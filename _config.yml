@@ -54,19 +54,27 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: smallexpimv
-        link: https://github.com/newbisi/smallexpimv
+        title: rexpi
+        link: https://github.com/newbisi/rexpi
         link_text: Github page
         description: | # this will include new lines to allow paragraphs
-          A Python package providing some subroutines for Krylov propagators.
-          This package is based on Fortran code using blas and lapack libraries. Also available in the pypi package manager <a href="https://pypi.org/project/smallexpimv">link</a>, work in progress.
+          A Python package providing algorithms to approximate the unitary exponential function with a focus on unitary best approximations. This package is still under development.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: adaptive Magnus-Krylov propagators
         link: https://github.com/newbisi/mkprop
+        link_text: Github page
         description: | # this will include new lines to allow paragraphs
-          Fortran and python code, to be published. Python code available at Github.
+          A Python package providing adaptive Magnus-Krylov and Krylov methods for time integration of Schrödinger-type equations. This package is still under development.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: smallexpimv
+        link: https://github.com/newbisi/smallexpimv
+        link_text: Github page
+        description: | # this will include new lines to allow paragraphs
+          A Python package providing some subroutines for Krylov propagators. The aim of this package is mostly to test f2py implementations using blas and lapack libraries in the pypi package manager, see also <a href="https://pypi.org/project/smallexpimv">link</a>, still under development.
 
   - title: Publication List
     layout: list
