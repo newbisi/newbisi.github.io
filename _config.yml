@@ -23,13 +23,13 @@ googlescholar_username: u1dLQx0AAAAJ
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  
+
   I received my PhD in numerical mathematics at TU Wien.
   The main topics of my PhD thesis are Krylov techniques and approximations to the action of matrix exponentials.
   While my research mainly revolves around numerical analysis and computational mathematics, I also enjoy working on applications and development of numerical software.
   As a PhD student I was part of the doctoral college <a href="http://dollywood.itp.tuwien.ac.at/~florian/tu_d_page/faculty" >Unravelling Advanced 2D Materials (TU-D)</a>,
-  which led to interdisciplinary collaborations focusing on time integration of quantum systems. 
-  
+  which led to interdisciplinary collaborations focusing on time integration of quantum systems.
+
   Some of my research collaborators are
   <a href="https://www.asc.tuwien.ac.at/~winfried/" >Winfried Auzinger</a> (doctoral advisor),
   <a href="http://dollywood.itp.tuwien.ac.at/~florian/" >Florian Libisch</a> (TU-D Speaker),
@@ -52,7 +52,7 @@ content:
     layout: list
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: rexpi
         link: https://github.com/newbisi/rexpi
@@ -60,7 +60,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           A Python package providing algorithms to approximate the unitary exponential function with a focus on unitary best approximations. Also available in the pypi package manager <a href="https://pypi.org/project/rexpi/">link</a>. This package is still under development.
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: adaptive Magnus-Krylov propagators
         link: https://github.com/newbisi/mkprop
@@ -68,7 +68,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           A Python package providing adaptive Magnus-Krylov and Krylov methods for time integration of Schrödinger-type equations. Also available in the pypi package manager <a href="https://pypi.org/project/mkprop/">link</a>. This package is still under development.
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: smallexpimv
         link: https://github.com/newbisi/smallexpimv
@@ -86,6 +86,8 @@ content:
         description: |
           - T. Jawecki. A review of the separation theorem of Chebyshev-Markov-Stieltjes for polynomial and some rational Krylov subspaces, 2022.
             preprint at <a href="https://arxiv.org/abs/2205.01535">https://arxiv.org/abs/2205.01535</a>
+            <a href="https://arxiv.org/pdf/2205.01535"> <i class="fa fa-file-pdf-o"></i> pdf</a>
+            <a href="https://github.com/newbisi/newbisi.github.io/raw/main/bibentries/Ja22preprint.bib"> <i class="fa-regular fa-rectangle-list"></i> bib</a>
           - T. Jawecki and P. Singh. Unitary rational best approximations to the exponential function, 2023.
             preprint at <a href="https://arxiv.org/abs/2312.13809">https://arxiv.org/abs/2312.13809</a>
 
@@ -95,7 +97,7 @@ content:
         description: |
           {: reversed="reversed"}
           6. T. Jawecki and P. Singh.
-            Unitarity of some barycentric rational approximants. 
+            Unitarity of some barycentric rational approximants.
             *IMA J. Numer. Anal.*, 2023.
             <a href="https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drad066/7246874?guestAccessKey=364aee1b-b478-4d19-b4d7-0b0ce35e34c0">doi:10.1093/imanum/drad066</a>
             <a href="https://academic.oup.com/imajna/advance-article-pdf/doi/10.1093/imanum/drad066/51237009/drad066.pdf?guestAccessKey=364aee1b-b478-4d19-b4d7-0b0ce35e34c0"> <i class="fa fa-file-pdf-o"></i> pdf</a>
