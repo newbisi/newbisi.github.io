@@ -21,6 +21,7 @@ googlescholar_username: u1dLQx0AAAAJ
 
 # About Section
 # about_title: About Me
+# <a href="https://github.com/newbisi/newbisi.github.io/raw/main/pdf/CV_TobiasJawecki.pdf"> <i class="fa fa-file-pdf-o"></i>  Download CV</a>
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
@@ -34,9 +35,6 @@ about_content: | # this will include new lines to allow paragraphs
   <a href="https://www.asc.tuwien.ac.at/~winfried/" >Winfried Auzinger</a> (doctoral advisor),
   <a href="http://dollywood.itp.tuwien.ac.at/~florian/" >Florian Libisch</a> (TU-D Speaker),
   <a href="https://www.pranavsingh.co.uk">Pranav Singh</a>.
-
-
-  <a href="https://github.com/newbisi/newbisi.github.io/raw/main/pdf/CV_TobiasJawecki.pdf"> <i class="fa fa-file-pdf-o"></i>  Download CV</a>
 
 content:
   - title: Research interests
